@@ -6,7 +6,7 @@ Permission is granted, free of charge, to any person to use, copy, modify, merge
 
 1. **Attribution.** Any use, adaptation, or redistribution of the Software, in whole or in part, must include clear attribution to the original authors and must cite the following work:
 
-   > [Author name(s)] (2026). *[Paper title to be added]*. [Journal/venue, when available].
+   > [Favero, Alexiadis] (2026). *[From Marking to Moderation: Evaluating Small Local LLMs for Feedback and Assessment of Reflective Writing in Higher Education]*. [submitted].
 
 2. **Non-commercial use only.** The Software may be used only for non-commercial purposes, including academic research, teaching, and personal experimentation. Any commercial use, including use within a product or service offered for a fee, requires prior written permission from the authors.
 
